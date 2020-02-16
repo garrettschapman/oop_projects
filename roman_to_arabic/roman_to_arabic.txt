@@ -1,0 +1,10 @@
+roman_to_arabic
+Garrett Chapman
+
+roman_to_arabic converts Roman numerals to Arabic numerals and vice versa.
+
+Entering an Arabic numeral between 1 and 3999 in the box labeled "Arabic Numeral" will cause its Roman numeral counterpart to appear in the box below it.
+Entering a Roman numeral between I and MMMCMXCIX in the box labeled "Roman Numeral" will cause its Arabic numeral counterpart to appear in the box above it.
+
+The program does not allow inputs outside of these ranges, and will delete them automatically.
+There are no buttons that need to be clicked for the conversion.
