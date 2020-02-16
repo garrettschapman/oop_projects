@@ -1,0 +1,12 @@
+slide_puzzle
+Garrett Chapman
+
+slide_puzzle takes an image and creates a 3x3 puzzle out of it.
+To complete the puzzle, click on the piece you want moved to the empty square.
+The piece must be adjacent to the empty square.
+Once the puzzle is completed, a congradulatory message will appear on the screen.
+Once this message is closed, the puzzle will automatically randomize itself again.
+
+When selecting an image, the image must be stored in the proper folder.
+A .jpeg or .png file must be selected as the image.
+An image called 'test_image' has been placed in the correct folder, for convenience.
