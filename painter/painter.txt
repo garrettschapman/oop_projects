@@ -1,0 +1,16 @@
+painter
+Garrett Chapman
+
+painter is a project that allows a user to draw and manipulate shapes.
+painter can create rectangles, ellipses, and edges (lines).
+painter can create red, green, blue, and black shapes.
+painter can create outlines or filled-in shapes.
+
+To create a shape, click the left mouse button and drag it inside the window.
+To move a shape, right-click a shape (or the outline of a shape), and drag it inside the window.
+
+The "Undo" button gets rid of the most-recently drawn shape.
+The "Clear" button removes all shapes in the window.
+The dropdown with "Red" selected when opening painter allows color selection.
+the dropdown with "Rectangle" selected when opening painter allows shape selection.
+The check box next to "Filled" determines if the created shapes are filled in.
