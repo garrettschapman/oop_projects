@@ -1,0 +1,9 @@
+huge_integer
+Garrett Chapman
+
+huge_integer manipulates integers of up to 40 digits, which is significantly larger than Java's int can handle.
+It can add, subtract, and multiply these huge integers.
+
+It accomplishes this task by creating arrays to house the information.
+
+To use huge_integer, open HugeIntegerTest.java, and change the numbers present in the String[][] "testInputs".
